@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\22-07-2023\ConAppAssignment13\ConAppAssignment13\bin\Debug\ConAppAssignment13.exe.config
+F:\Training Stuff\Dot netTraining\22-07-2023\ConAppAssignment13\ConAppAssignment13\bin\Debug\ConAppAssignment13.exe
+F:\Training Stuff\Dot netTraining\22-07-2023\ConAppAssignment13\ConAppAssignment13\bin\Debug\ConAppAssignment13.pdb
+F:\Training Stuff\Dot netTraining\22-07-2023\ConAppAssignment13\ConAppAssignment13\obj\Debug\ConAppAssignment13.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\22-07-2023\ConAppAssignment13\ConAppAssignment13\obj\Debug\ConAppAssignment13.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\22-07-2023\ConAppAssignment13\ConAppAssignment13\obj\Debug\ConAppAssignment13.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\22-07-2023\ConAppAssignment13\ConAppAssignment13\obj\Debug\ConAppAssignment13.exe
+F:\Training Stuff\Dot netTraining\22-07-2023\ConAppAssignment13\ConAppAssignment13\obj\Debug\ConAppAssignment13.pdb
